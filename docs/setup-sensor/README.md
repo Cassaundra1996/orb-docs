@@ -64,6 +64,6 @@ You can add multiple sensors to your Orb account to monitor different networks o
 - Tracking both wired and wireless connections.
 - Keeping an eye on a vacation home or remote location.
 - Checking internet connectivity at home while on the go.
-- Comparing home and work connectivity.
+- Comparing home asetup-sensorectivity.
 
 To add multiple sensors, simply follow the setup guide for each device and link them all to the same Orb account.
